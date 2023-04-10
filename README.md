@@ -10,7 +10,7 @@ Soy un apasionado de los sistemas informáticos, pero más de la programación, 
 
 [Twitter](https://twitter.com/pereeegm) 🐦
 
-[Linkedin](https://www.linkedin.com/in/pere-garcia-a66144218/)
+[Linkedin](https://www.linkedin.com/in/pere-garcia-a66144218/) 💼
 
 
 
