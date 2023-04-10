@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey! I'm Pere 👋
 
-<!--
-**TechPere/TechPere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Future Full-Stack developer 👨‍💻
+---
+Soy un apasionado de los sistemas informáticos, pero más de la programación, estoy estudiando un ciclo medio de sistemas microinformáticos y redes. A parte estudio por mi cuenta lenguajes y tecnologias como Git, por ejemplo, hace realmente poco que sentí pasión por este mundo, pero se que puedo aportar mucho, eso intentaré. 
 
-Here are some ideas to get you started:
+¡Un placer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Contacto`
+
+[Twitter](https://twitter.com/pereeegm) 🐦
+
+[Linkedin](https://www.linkedin.com/in/pere-garcia-a66144218/)
+
+
+
